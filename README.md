@@ -2,6 +2,7 @@
 
 ## // About Me
 
+### Soft skills
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)

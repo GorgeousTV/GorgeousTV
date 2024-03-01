@@ -47,6 +47,6 @@
 
 
 ### Certificates
-#### ![Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+#### [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
 ##### 1 сентября 2023 - 20 октября 2023
 

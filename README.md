@@ -1,11 +1,14 @@
-![Header](https://github.com/GorgeousTV/GorgeousTV/blob/main/assets/1920x1080-px-Ana-de-Armas-Blade-Runner-blade-runner-2049-blue-hair-Joi-movies-Ryan-Gosling-women-1471301.jpg)
+## Junior QA/QC Engineer
+### Name: Dmitry Volkov
+### Date: 07 May 1996
+#### From: Saint-Petersburg, Russia
+
+[![Telegramm](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)
 
 ## // About Me
-![Header](https://github.com/GorgeousTV/GorgeousTV/blob/main/ISO/asdasdasdasd.JPG)
 
-### Soft skills
 
-### Languages and Tools
+### Hard skills
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
@@ -20,9 +23,30 @@
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black?style=for-the-badge&logo=null)
 
+### Soft skills
+- Внимательность
+- Усидчивость
+- Обучаемость
+- Коммуникабельность
+- Ответственность
+- Заинтересованность
+
+### Other skills
+
+- Ручное тестирование web-приложений и web-сервисов
+- Применение техник тест-дизайна на практике
+- Составление тестовой документации и тест-плана
+- Анализ и тестирование требований
+- Тестирование GUI
+- Тестирование API (SOAP/REST методы в Postman)
+- Умение эффективно гуглить
+- Есть опыт общения с ChatGPT для решения задач
+- Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
+
+### Portfolio
+
+
 ### Certificates
+#### ![Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+##### 1 сентября 2023 - 20 октября 2023
 
-
-
-#### Contacts
-[![Telegramm](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)

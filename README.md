@@ -49,6 +49,7 @@
 - [Mind-maps](https://github.com/GorgeousTV/Mind-maps)
 - [Test-reports](https://github.com/GorgeousTV/Test-reports)
 - [Artifacts](https://github.com/GorgeousTV/Artifacts)
+- [Python](https://github.com/GorgeousTV/Python)
 
 ### Certificates
 #### [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)

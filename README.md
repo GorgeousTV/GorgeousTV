@@ -44,11 +44,11 @@
 - Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
 
 ### Portfolio
--[Test-cases](https://github.com/GorgeousTV/Test-cases)
--[Bug-reports](https://github.com/GorgeousTV/Bug-reports)
--[Mind-maps](https://github.com/GorgeousTV/Mind-maps)
--[Test-reports](https://github.com/GorgeousTV/Test-reports)
--[Artifacts](https://github.com/GorgeousTV/Artifacts)
+- [Test-cases](https://github.com/GorgeousTV/Test-cases)
+- [Bug-reports](https://github.com/GorgeousTV/Bug-reports)
+- [Mind-maps](https://github.com/GorgeousTV/Mind-maps)
+- [Test-reports](https://github.com/GorgeousTV/Test-reports)
+- [Artifacts](https://github.com/GorgeousTV/Artifacts)
 
 ### Certificates
 #### [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)

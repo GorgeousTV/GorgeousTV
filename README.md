@@ -5,11 +5,10 @@
 
 [![Telegramm](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)
 
-## // About Me
-
+# About Me
 
 ### Hard skills
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome)
@@ -29,7 +28,7 @@
 - Обучаемость
 - Коммуникабельность
 - Ответственность
-- Заинтересованность
+- Стремление к профессиональному развитию
 
 ### Other skills
 
@@ -60,3 +59,11 @@
 ### Future plans
 - Углубленное изучение SQL
 - Автоматизация тестирования на Python/JavaScript
+
+### Hobbies
+- Кино
+- Игры
+- Настолки
+- Все виды бординга (сап-/скейт-/сноу-)
+- Падел
+- Играю на гитаре

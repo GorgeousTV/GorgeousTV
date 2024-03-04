@@ -1,4 +1,4 @@
-## Junior QA/QC Engineer
+## QA/QC Engineer
 ### Name: Dmitry Volkov
 ### Date: 07 May 1996
 #### From: Saint-Petersburg, Russia

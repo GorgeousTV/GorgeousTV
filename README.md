@@ -52,10 +52,10 @@
 - [Python](https://github.com/GorgeousTV/Python)
 
 ### Certificates and courses
-#### [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
-#### [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en)
+#### - [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+#### - [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en)
 ##### 1 сентября 2023 - 20 октября 2023
-#### Яндекс.Практикум: QA Engineer plus
+#### - Яндекс.Практикум: QA Engineer plus
 ##### 1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024)
 
 ### Future plans

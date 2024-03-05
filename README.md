@@ -21,11 +21,6 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-black?style=for-the-badge&logo=soapui)
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black?style=for-the-badge&logo=null)
-![## QA Engineer
-### Name: Dmitry Volkov
-### Date: 07 May 1996
-#### From: Saint-Petersburg, Russia
-### Soft skills](https://img.shields.io/badge/HTML/CSS-black?style=for-the-badge&logo=null)
 
 - Внимательность
 - Усидчивость

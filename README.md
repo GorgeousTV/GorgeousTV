@@ -5,7 +5,7 @@
 
 [![Telegramm](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)
 
-![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/assets/aboutme.png)
+![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/About_Me/aboutme.png)
 
 ### Hard skills
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -28,13 +28,13 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Усидчивость
 
-![v6](https://github.com/GorgeousTV/GorgeousTV/blob/main/v6/v6.png) Обучаемость
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Обучаемость
 
-![v6](https://github.com/GorgeousTV/GorgeousTV/blob/main/v6/v6.png) Коммуникабельность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Коммуникабельность
 
-![v6](https://github.com/GorgeousTV/GorgeousTV/blob/main/v6/v6.png) Ответственность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ответственность
 
-![v6](https://github.com/GorgeousTV/GorgeousTV/blob/main/v6/v6.png) Стремление к профессиональному развитию
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию
 
 
 ### Other skills

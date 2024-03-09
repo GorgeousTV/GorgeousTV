@@ -3,7 +3,7 @@
 ### Date: 07 May 1996
 #### From: Saint-Petersburg, Russia
 
-[![Telegramm](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)
+[![Telegramm](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=39bee6)](https://t.me/GorgeousQA)
 
 ![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/About_Me/aboutme.png)
 
@@ -17,7 +17,7 @@
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=39bee6)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=39bee6)
 ![Charles](https://img.shields.io/badge/Charles-white?style=for-the-badge&logo=charles&logoColor=39bee6)
-![VCS](https://img.shields.io/badge/VCS-white?style=for-the-badge&logo=visualstudio&logoColor=blue&logoColor=39bee6)
+![VCS](https://img.shields.io/badge/VCS-white?style=for-the-badge&logo=visualstudio&logoColor=39bee6)
 ![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=soapui&logoColor=39bee6)
 ![YouTrack](https://img.shields.io/badge/YouTrack-white?style=for-the-badge&logo=youtrack&logoColor=39bee6)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)

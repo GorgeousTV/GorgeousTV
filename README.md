@@ -75,15 +75,12 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
 ### Certificates and courses
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *1 сентября 2023 - 20 октября 2023*
 
- 1 сентября 2023 - 20 октября 2023
-
- ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en)
+ ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en) *1 февраля 2024 - 1 марта 2024*
  
- ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus
-
- 1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024)
+ ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus *1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024)*
+ 
 
 ### Future plans
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Углубленное изучение SQL

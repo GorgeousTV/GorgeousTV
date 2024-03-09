@@ -8,19 +8,19 @@
 ![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/About_Me/aboutme.png)
 
 ### Hard skills
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
-![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome)
-![Miro](https://img.shields.io/badge/Miro-black?style=for-the-badge&logo=miro)
-![Qase](https://img.shields.io/badge/Qase-black?style=for-the-badge&logo=qase&logoColor=286efa)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles)
-![VCS](https://img.shields.io/badge/VCS-black?style=for-the-badge&logo=visualstudio&logoColor=blue)
-![SoapUI](https://img.shields.io/badge/SoapUI-black?style=for-the-badge&logo=soapui)
-![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black?style=for-the-badge&logo=null)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql)
+![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=googlechrome)
+![Miro](https://img.shields.io/badge/Miro-white?style=for-the-badge&logo=miro&logoColor=black)
+![Qase](https://img.shields.io/badge/Qase-322947?style=for-the-badge&logo=qase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&labelColor=000000)
+![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles&labelColor=000000)
+![VCS](https://img.shields.io/badge/VCS-black?style=for-the-badge&logo=visualstudio&logoColor=blue&labelColor=000000)
+![SoapUI](https://img.shields.io/badge/SoapUI-black?style=for-the-badge&logo=soapui&labelColor=000000)
+![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack&labelColor=000000)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null)
 
 ### Soft skills
 

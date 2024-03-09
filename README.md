@@ -7,7 +7,8 @@
 
 ![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/About_Me/aboutme.png)
 
-### Hard skills
+![Hard skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hard%20skills/pl2.png)
+
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=39bee6)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=39bee6)
 ![MySQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql&logoColor=39bee6)

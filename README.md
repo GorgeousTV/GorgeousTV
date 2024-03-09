@@ -24,17 +24,17 @@
 
 ### Soft skills
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Внимательность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Усидчивость
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Усидчивость
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Обучаемость
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Обучаемость
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Коммуникабельность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Коммуникабельность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Ответственность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ответственность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)Стремление к профессиональному развитию
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию
 
 
 ### Other skills

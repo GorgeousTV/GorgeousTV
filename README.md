@@ -39,44 +39,68 @@
 
 ### Other skills
 
-- Ручное тестирование web-приложений и web-сервисов
-- Применение техник тест-дизайна на практике
-- Составление тестовой документации и тест-плана
-- Анализ и тестирование требований
-- Тестирование API (SOAP/REST)
-- Тестирование GUI
-- Тестирование API (SOAP/REST)
-- Английский язык уровня А2
-- Умение эффективно гуглить
-- Умение общаться с ChatGPT для решения задач
-- Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ручное тестирование web-приложений и web-сервисов
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Применение техник тест-дизайна на практике
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Составление тестовой документации и тест-плана
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Анализ и тестирование требований
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Английский язык уровня А2
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение эффективно гуглить
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение общаться с ChatGPT для решения задач
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
 
 ### Portfolio
-- [Test-cases](https://github.com/GorgeousTV/Test-cases)
-- [Bug-reports](https://github.com/GorgeousTV/Bug-reports)
-- [Mind-maps](https://github.com/GorgeousTV/Mind-maps)
-- [Test-reports](https://github.com/GorgeousTV/Test-reports)
-- [Artifacts](https://github.com/GorgeousTV/Artifacts)
-- [Python](https://github.com/GorgeousTV/Python)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test-cases](https://github.com/GorgeousTV/Test-cases)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Bug-reports](https://github.com/GorgeousTV/Bug-reports)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Mind-maps](https://github.com/GorgeousTV/Mind-maps)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test-reports](https://github.com/GorgeousTV/Test-reports)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Artifacts](https://github.com/GorgeousTV/Artifacts)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
 ### Certificates and courses
- [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en)
+
  1 сентября 2023 - 20 октября 2023
 
- [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en)
+ ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en)
  
- Яндекс.Практикум: QA Engineer plus
+ ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus
+
  1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024)
 
 ### Future plans
-- Углубленное изучение SQL
-- Автоматизация тестирования на Python/JavaScript
-- Тестирование безопасности, web-пентест
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Углубленное изучение SQL
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python/JavaScript
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование безопасности, web-пентест
 
 ### Hobbies
-- Кино
-- Игры
-- Настолки
-- Все виды бординга (сап-/скейт-/сноу-)
-- Падел
-- Играю на гитаре
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Кино
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Игры
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Настолки
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Все виды бординга (сап-/скейт-/сноу-)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Падел
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Играю на гитаре

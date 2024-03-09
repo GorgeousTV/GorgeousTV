@@ -23,7 +23,7 @@
 ![YouTrack](https://img.shields.io/badge/YouTrack-white?style=for-the-badge&logo=youtrack&logoColor=39bee6)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)
 
-### Soft skills
+![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
 
@@ -38,7 +38,7 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию
 
 
-### Other skills
+![Other skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Other%20skills/pl3.png)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ручное тестирование web-приложений и web-сервисов
 
@@ -62,7 +62,8 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
 
-### Portfolio
+![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test-cases](https://github.com/GorgeousTV/Test-cases)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Bug-reports](https://github.com/GorgeousTV/Bug-reports)
@@ -75,22 +76,25 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
-### Certificates and courses
+![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*
 
- ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
  
- ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus *(1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024))*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus *(1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024))*
  
 
-### Future plans
+![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Углубленное изучение SQL
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python/JavaScript
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование безопасности, web-пентест
 
-### Hobbies
+![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Кино
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Игры

@@ -5,7 +5,7 @@
 
 [![Telegramm](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GorgeousQA)
 
-# About Me
+![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/assets/aboutme.png)
 
 ### Hard skills
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)

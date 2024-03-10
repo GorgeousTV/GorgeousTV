@@ -1,9 +1,4 @@
-## QA Engineer
-### Name: Dmitry Volkov
-### Date: 07 May 1996
-#### From: Saint-Petersburg, Russia
-
-[![Telegramm](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=39bee6)](https://t.me/GorgeousQA)
+[![Header](https://github.com/GorgeousTV/GorgeousTV/blob/main/Header/banner.png)](https://t.me/demaocean)
 
 ![About Me](https://github.com/GorgeousTV/GorgeousTV/blob/main/About_Me/aboutme.png)
 

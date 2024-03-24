@@ -10,6 +10,7 @@
 ![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=googlechrome&logoColor=39bee6)
 ![Miro](https://img.shields.io/badge/Miro-white?style=for-the-badge&logo=miro&&logoColor=39bee6)
 ![Qase](https://img.shields.io/badge/Qase-white?style=for-the-badge&logo=qase&logoColor=39bee6)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=AndroidStudio&logoColor=39bee6)
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=39bee6)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=39bee6)
 ![Charles](https://img.shields.io/badge/Charles-white?style=for-the-badge&logo=charles&logoColor=39bee6)
@@ -48,6 +49,10 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Знание основ дизайна и композиции
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Английский язык уровня А2
 

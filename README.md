@@ -51,8 +51,6 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
 
-# ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Работа в консоли Git Bash/Cygwin
-
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Знание основ дизайна и композиции

@@ -13,6 +13,7 @@
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=AndroidStudio&logoColor=39bee6)
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=39bee6)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=39bee6)
+![Swagger](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=swagger&logoColor=39bee6)
 ![Charles](https://img.shields.io/badge/Charles-white?style=for-the-badge&logo=charles&logoColor=39bee6)
 ![VCS](https://img.shields.io/badge/VCS-white?style=for-the-badge&logo=visualstudio&logoColor=39bee6)
 ![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=soapui&logoColor=39bee6)
@@ -50,6 +51,8 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
 
+# ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Работа в консоли Git Bash/Cygwin
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Знание основ дизайна и композиции
@@ -80,7 +83,7 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО с нуля. Курс Артёма Русова](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
  
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: QA Engineer plus *(1 ноября 2023 - по настоящее время (дата получения диплома: 1 августа 2024))*
  
@@ -90,8 +93,6 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Углубленное изучение SQL
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python/JavaScript
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование безопасности, web-пентест
 
 ![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
 

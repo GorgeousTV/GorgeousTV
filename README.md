@@ -77,7 +77,7 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Postman](https://github.com/GorgeousTV/Postman)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Postman collection](https://github.com/GorgeousTV/Postman)
 
 ![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 

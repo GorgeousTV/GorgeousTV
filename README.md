@@ -77,6 +77,8 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Postman](https://github.com/GorgeousTV/Postman)
+
 ![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*

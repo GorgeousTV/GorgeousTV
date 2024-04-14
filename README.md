@@ -55,7 +55,7 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Знание основ дизайна и композиции
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Английский язык уровня А2
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Английский язык уровня B1
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение эффективно гуглить
 

@@ -49,7 +49,7 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение работать с БД и ER-диаграммой
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
 

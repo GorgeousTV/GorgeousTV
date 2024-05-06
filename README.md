@@ -6,7 +6,7 @@
 
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=39bee6)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=39bee6)
-![MySQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql&logoColor=39bee6)
+![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql&logoColor=39bee6)
 ![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=googlechrome&logoColor=39bee6)
 ![Miro](https://img.shields.io/badge/Miro-white?style=for-the-badge&logo=miro&&logoColor=39bee6)
 ![Qase](https://img.shields.io/badge/Qase-white?style=for-the-badge&logo=qase&logoColor=39bee6)

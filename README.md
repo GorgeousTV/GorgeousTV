@@ -15,10 +15,12 @@
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=39bee6)
 ![Swagger](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=swagger&logoColor=39bee6)
 ![Charles](https://img.shields.io/badge/Charles-white?style=for-the-badge&logo=charles&logoColor=39bee6)
-![VCS](https://img.shields.io/badge/VCS-white?style=for-the-badge&logo=visualstudio&logoColor=39bee6)
+![PyCharm](https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=39bee6)
+![YouTrack](https://img.shields.io/badge/YouTrack/Jira-white?style=for-the-badge&logo=jira&logoColor=39bee6)
+![AndroidSDK](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=androidstudio&logoColor=39bee6)
 ![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=soapui&logoColor=39bee6)
-![YouTrack](https://img.shields.io/badge/YouTrack-white?style=for-the-badge&logo=youtrack&logoColor=39bee6)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)
+
 
 ![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
 
@@ -50,6 +52,8 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение работать с БД и ER-диаграммой
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Понимание принципа работы HTTP/HTTPS протоколов
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
 
@@ -89,9 +93,9 @@
  
 ![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Углубленное изучение SQL
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Рост в рамках профессии QA Engineer
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python/JavaScript
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python
 
 ![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
 

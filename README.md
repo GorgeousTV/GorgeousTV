@@ -69,9 +69,12 @@
 
 ![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test-cases](https://github.com/GorgeousTV/Test-cases)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm/tree/main)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Bug-reports](https://github.com/GorgeousTV/Bug-reports)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro/blob/main/README.md)
+
+#
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Mind-maps](https://github.com/GorgeousTV/Mind-maps)
 

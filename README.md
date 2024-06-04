@@ -22,6 +22,20 @@
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)
 
 
+![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok](https://github.com/GorgeousTV/Yandex-Prilavok)
+
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm/tree/main)
+
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro/blob/main)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Carsharing](https://github.com/GorgeousTV/Carsharing/tree/main)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
+
 ![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
@@ -67,19 +81,6 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
 
-![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok](https://github.com/GorgeousTV/Yandex-Prilavok)
-
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm/tree/main)
-
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro/blob/main)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Carsharing](https://github.com/GorgeousTV/Carsharing/tree/main)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
 
 ![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 

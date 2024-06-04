@@ -32,6 +32,8 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro/blob/main)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test Lead Projects](https://github.com/GorgeousTV/Test-lead-project)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Carsharing](https://github.com/GorgeousTV/Carsharing/tree/main)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)

@@ -26,17 +26,13 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok](https://github.com/GorgeousTV/Yandex-Prilavok)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm/tree/main)
-
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro/blob/main)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test Lead Projects](https://github.com/GorgeousTV/Test-lead-project)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Carsharing](https://github.com/GorgeousTV/Carsharing/tree/main)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Python](https://github.com/GorgeousTV/Python)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Car-sharing](https://github.com/GorgeousTV/Carsharing)
 
 ![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
 

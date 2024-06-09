@@ -24,6 +24,8 @@
 
 ![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Pytest Yandex Prilavok](https://github.com/GorgeousTV/Pytest-API-Yandex.Prilavok)
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok](https://github.com/GorgeousTV/Yandex-Prilavok)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm)

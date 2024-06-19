@@ -37,11 +37,11 @@
 
 ![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование *(1 ноября 2023 - по настоящее время (дата получения диплома: июль 2024))*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование (2024)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) (2023)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) (2024)
  
 ![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
 

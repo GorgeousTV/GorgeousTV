@@ -75,6 +75,8 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Написание несложных автотестов на Python
+
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение работать с БД и ER-диаграммой

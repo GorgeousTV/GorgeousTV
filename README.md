@@ -21,35 +21,47 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=soapui&logoColor=39bee6)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)
 
-
 ![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Pytest Yandex Prilavok - автотесты в PyCharm](https://github.com/GorgeousTV/Pytest-API-Yandex.Prilavok)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Pytest Yandex Prilavok](https://github.com/GorgeousTV/Pytest-API-Yandex.Prilavok) - автотесты в PyCharm
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok - тестирование API](https://github.com/GorgeousTV/Yandex-Prilavok)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Prilavok](https://github.com/GorgeousTV/Yandex-Prilavok) - тестирование API
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm - тестирование соц-сети с котами](https://github.com/GorgeousTV/Kittygramm)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Kittygramm](https://github.com/GorgeousTV/Kittygramm) - тестирование соц-сети с котами
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro - тестирование приложения маршрутов метро](https://github.com/GorgeousTV/Yandex-Metro)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Yandex Metro](https://github.com/GorgeousTV/Yandex-Metro) - тестирование приложения маршрутов метро
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test Lead Projects - опыт работы тест-лидом](https://github.com/GorgeousTV/Test-lead-project)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Test Lead Projects](https://github.com/GorgeousTV/Test-lead-project) - опыт работы тест-лидом
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Car-sharing](https://github.com/GorgeousTV/Carsharing)
 
-![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
+![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование *(1 ноября 2023 - по настоящее время (дата получения диплома: июль 2024))*
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Усидчивость
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Обучаемость
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
+ 
+![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Коммуникабельность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Рост в рамках профессии QA Engineer
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ответственность
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию
+![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
 
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Кино
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Игры
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Настолки
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Все виды бординга (сап-/скейт-/сноу-)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Падел
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Играю на гитаре
 
 ![Other skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Other%20skills/pl3.png)
 
@@ -81,31 +93,16 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
 
+![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
 
-![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование *(1 ноября 2023 - по настоящее время (дата получения диплома: июль 2024))*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Усидчивость
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) *(1 сентября 2023 - 20 октября 2023)*
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Обучаемость
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) *(1 февраля 2024 - 1 марта 2024)*
- 
-![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Коммуникабельность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Рост в рамках профессии QA Engineer
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ответственность
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python
-
-![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Кино
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Игры
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Настолки
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Все виды бординга (сап-/скейт-/сноу-)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Падел
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Играю на гитаре
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию

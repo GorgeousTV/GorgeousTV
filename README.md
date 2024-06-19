@@ -18,8 +18,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=39bee6)
 ![YouTrack](https://img.shields.io/badge/YouTrack/Jira-white?style=for-the-badge&logo=jira&logoColor=39bee6)
 ![AndroidSDK](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=androidstudio&logoColor=39bee6)
-![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=soapui&logoColor=39bee6)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-white?style=for-the-badge&logo=null&logoColor=39bee6)
 
 ![Portfolio](https://github.com/GorgeousTV/GorgeousTV/blob/main/Portfolio/pl4.png)
 

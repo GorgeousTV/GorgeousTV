@@ -45,16 +45,27 @@
 ![Studying](https://github.com/GorgeousTV/GorgeousTV/blob/main/Studying/pl5.png)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование (2024)
+![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-1.png)
+![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-2.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  [Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020)](https://stepik.org/cert/2190910?lang=en) (2023)
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020) (2023)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) [Тестирование ПО](https://stepik.org/cert/2378119?lang=en) (2024)
- 
+![PYTHON](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/a30dc17e23ebefccd1c7c32915a3ed4173ecc9f5.png)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование ПО (2024)
+
+![QA_MANUAL](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/8676ee771f910122c74ac80d40ae26f2435fe4e4.png)
+
+![Other skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Other%20skills/pl3.png)
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) За время обучения в Практикуме я освоил теорию тестирования веб и мобильных приложений, научился анализировать и уточнять требования, составлять тестовую документацию, находить и фиксировать баги.
+У меня есть опыт решения задач на примере учебных проектов, в одном из которых мне представилась возможность побыть в роли тест-лида, что позволило мне лучше понять специфику работы и глубже погрузиться в рабочую атмосферу.
+
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) После завершения курса я устроился на стажировку инженером по НТ в Билайн. За время стажировки я работал с такими инструментами, как JMeter, Docker, Kubernetes, InfluxDB, Grafana, а также научился настраивать тестовые стенды, собирать и анализировать метрики производительности, работать с логами и актуализировать профиль основного нагрузочного сценария. Разобрался в процессах разработки, тестировании микросервисной архитектуры, взаимодействии с командами разработчиков, аналитиков, DevOps-специалистов. 
+
 ![Future plans](https://github.com/GorgeousTV/GorgeousTV/blob/main/Future%20plans/pl6.png)
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Рост в рамках профессии QA Engineer
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Автоматизация тестирования на Python
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) В перспективе планирую глубже изучить языки программирования Java и Python, а так же дальше развиваться в области НТ и автоматизации.
 
 ![Hobbies](https://github.com/GorgeousTV/GorgeousTV/blob/main/Hobbies/pl7.png)
 
@@ -64,54 +75,6 @@
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Настолки
 
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Все виды бординга (сап-/скейт-/сноу-)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Падел
+![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Все виды бординга (сап/скейт/сноу)
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Играю на гитаре
-
-![Other skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Other%20skills/pl3.png)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ручное тестирование web-приложений и web-сервисов
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Применение техник тест-дизайна на практике
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Составление тестовой документации и тест-плана
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Анализ и тестирование требований
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование API (SOAP/REST)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Написание несложных автотестов на Python
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование GUI
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение работать с БД и ER-диаграммой
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Понимание принципа работы HTTP/HTTPS протоколов
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование мобильных приложений (Android/IOS)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Знание основ дизайна и композиции
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Английский язык уровня B1
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение эффективно гуглить
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Умение общаться с ChatGPT для решения задач
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Имеется опыт работы на позиции тест-лида в рамках учебного проекта Яндекс.Практикума 
-
-![Soft skills](https://github.com/GorgeousTV/GorgeousTV/blob/main/Soft%20skills/pl1.png)
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Внимательность
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Усидчивость
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Обучаемость
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Коммуникабельность
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Ответственность
-
-![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Стремление к профессиональному развитию

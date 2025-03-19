@@ -47,10 +47,12 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование (2024)
 ![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-1.png)
 ![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-2.png)
+____
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020) (2023)
 
 ![PYTHON](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/a30dc17e23ebefccd1c7c32915a3ed4173ecc9f5.png)
+____
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование ПО (2024)
 

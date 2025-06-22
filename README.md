@@ -10,10 +10,10 @@
 ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=39bee6)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=39bee6)
 ![Kibana](https://img.shields.io/badge/Kibana-white?style=for-the-badge&logo=Kibana&logoColor=39bee6)
+![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=39bee6)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=39bee6)
 ![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=googlechrome&logoColor=39bee6)
 ![OctopusDeploy](https://img.shields.io/badge/Octopus-white?style=for-the-badge&logo=OctopusDeploy&logoColor=39bee6)
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=39bee6)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=39bee6)
 ![PyCharm](https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=39bee6)
 ![Charles](https://img.shields.io/badge/Charles-white?style=for-the-badge&logo=charles&logoColor=39bee6)
@@ -24,7 +24,8 @@
 ![Miro](https://img.shields.io/badge/Miro-white?style=for-the-badge&logo=miro&&logoColor=39bee6)
 ![Qase](https://img.shields.io/badge/Qase-white?style=for-the-badge&logo=qase&logoColor=39bee6)
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=39bee6)
-![YouTrack](https://img.shields.io/badge/YouTrack/Jira-white?style=for-the-badge&logo=jira&logoColor=39bee6)
+![Attlasian Jura](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=39bee6)
+![Attlasian Confluence](https://img.shields.io/badge/Confluence-white?style=for-the-badge&logo=confluence&logoColor=39bee6)
 ![AndroidSDK](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=androidstudio&logoColor=39bee6)
 
 
@@ -47,10 +48,12 @@
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Яндекс.Практикум: Инженер по тестированию + Введение в автоматизированное тестирование (2024)
 ![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-1.png)
 ![YANDEX](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/Диплом_RU_Волков_2024-6188-022-2.png)
+____
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png)  Stepik: «Поколение PYTHON»: курс для начинающих (Stepik Awards 2020) (2023)
 
 ![PYTHON](https://github.com/GorgeousTV/GorgeousTV/blob/main/Serts/a30dc17e23ebefccd1c7c32915a3ed4173ecc9f5.png)
+____
 
 ![v2](https://github.com/GorgeousTV/GorgeousTV/blob/main/v2/v2.png) Тестирование ПО (2024)
 
